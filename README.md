@@ -1,1 +1,2 @@
-STOCK Price Data Analysis 
+# Stock Price Data Analysis
+## Purpose
