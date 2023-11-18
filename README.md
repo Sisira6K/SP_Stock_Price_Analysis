@@ -1,1 +1,1 @@
-STOCK PRICE DATA ANALYSIS
+STOCK Price Data Analysis 
