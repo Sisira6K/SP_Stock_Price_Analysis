@@ -17,6 +17,8 @@ for tableName in files_in_path:
     
 # Creating the tables into our database through SQLite connection 
     df = pd.read_csv(input_path+"\\"+tableName+".csv")
+    df =df.reset_index()
+    df =df.drop('index',axis=1)
     df.to_sql(tableName,connection,if_exists="replace")
 
 connection.close()
