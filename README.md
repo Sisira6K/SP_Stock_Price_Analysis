@@ -21,7 +21,7 @@ csv_data folder has multiple csv files .I have created a utility script for work
 1. Clone the repo to your machine.
 2. Create and activate a virtual environment and install the packages in requirements.txt file.
 3. Run the create_db_from_csv.py script .This script will create a new connection database file
-   'skockprice.db'
+   'stockprice.db'
 4. Open _Stockprice_Analysis.ipynb_ JupyterNotebook and install  "Python 3 ipykernel" .
 5. click on 'Run All' cells
 
