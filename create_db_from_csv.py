@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import sqlite3
 
-input_path = r"C:\Users\kbala\OneDrive\Documents\Projects\SP_Stock_Price_Analysis\csv_data"
+input_path = "./csv_data"
 files_in_path = os.listdir(input_path)
 
 #Create and connect to Sqlite database

@@ -19,7 +19,7 @@ csv_data folder has multiple csv files .I have created a utility script for work
 ## To Run Project
 
 1. Clone the repo to your machine.
-2. Create and activate a virtual environment and install the packages in requirements.txt file.
+2. Create and activate a virtual environment "See the Virtual Environment section for more instructions" and install the packages in requirements.txt file.
 3. Run the create_db_from_csv.py script .This script will create a new connection database file
    'stockprice.db'
 4. Open _Stockprice_Analysis.ipynb_ JupyterNotebook and install  "Python 3 ipykernel" .
@@ -28,10 +28,10 @@ csv_data folder has multiple csv files .I have created a utility script for work
 ## Virtual Environment
 
 1. After you have cloned the repo to your machine, navigate to the project folder in GitBash/Terminal.
-2. Create a virtual environment in the project folder.*python3 -m venv venv*
-3. Activate the virtual environment. *venv/Scripts/activate*
+2. Create a virtual environment in the project folder.  *python3 -m venv venv*
+3. Activate the virtual environment.  *venv/Scripts/activate*
 4. Install the required packages.  *pip install -r requirements.txt*
-5. When you are done working on your repo, deactivate the virtual environment.*deactivate*
+5. When you are done working on your repo, deactivate the virtual environment. *deactivate*
 
 ## Features
 
