@@ -6,8 +6,9 @@ This repository is demonstrated for CODE:YOU Data Analysis Capstone Project.I am
 
 ## Summary
 
-This Project focuses on the technical analysis on moving average(SMA) and volume.
-
+This Project focuses on the technical analysis on moving average(Simple Moving Average) and volume.
+To know more
+[https://www.investopedia.com/terms/t/technical-analysis-of-stocks-and-trends.asp](https://www.investopedia.com/terms/t/technical-analysis-of-stocks-and-trends.asp)
 ## Getting the Data
 
 This dataset with historical stock prices for all companies currently found on the S&P 500 index .This data is presented from [Kaggle.com](https://www.kaggle.com/datasets/camnugent/sandp500)
